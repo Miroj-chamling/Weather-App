@@ -7,7 +7,7 @@ class DataServices {
   Future<WeatherData> getWeatherData(String city) async {
     final queryParameters = {
       "q": city,
-      "appid": "",
+      "appid": "565e07b049ffdf7d99e988c6699cb538",
       "units": "metric",
     };
 
