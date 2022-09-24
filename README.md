@@ -1,16 +1,9 @@
 # weather_app
 
-A new Flutter project.
+Check weather before outdoor planning with this weather app.
 
-## Getting Started
+<img width="469" alt="Screen Shot 2022-09-24 at 10 55 38" src="https://user-images.githubusercontent.com/81049151/192081107-35b3d4b4-e605-4fa3-a5a9-2591a6f0281e.png">
 
-This project is a starting point for a Flutter application.
+## Authors
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Miroj Chamling](https://github.com/Miroj-chamling)
